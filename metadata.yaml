@@ -1,0 +1,28 @@
+_repo: The-Description-of-Wales_1092
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cambrensis, Giraldus
+    aliases:
+    - Cambrensis, Giraldus
+    - Barry, Gerald de
+    - Barri, Gerald de
+    gutenberg_agent_id: '536'
+    url: http://www.gutenberg.org/2009/agents/536
+    wikipedia: http://en.wikipedia.org/wiki/Giraldus_Cambrensis
+description: ''
+gutenberg_issued: '1997-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1092'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Wales -- Description and travel'
+- !lcsh 'Wales -- Social life and customs'
+- GITenberg
+title: The Description of Wales
+url: http://www.gutenberg.org/ebooks/1092
